@@ -1,0 +1,4 @@
+.paginate { margin-left: -40px; list-style: none;}
+.paginate li { float: left; border: 1px solid silver; padding: 3px 10px; margin-left: -1px; }
+.paginate li:hover { background: orange; border: 1px solid orange; }
+.paginate li:hover a { color: white; }
